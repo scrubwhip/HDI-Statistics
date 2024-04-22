@@ -14,8 +14,10 @@ This repository is a collection of visualizations, sheets, and code that summari
 ## Purpose
 >Who is it for?
 >>This repository is intended for anyone generally interested in geographical data and statistics sorted by nation and continent. It could be useful specifically for political geographers, activist groups, government statisticians, economists, and other data analysts in general.
+
 >Why is it useful?
->>The data I've compiled is helpful for many in the fields listed above, as it can help predict patterns in human development and show which regions or countries are particularly struggling or exceeding in a certain aspect of development. 
+>>The data I've compiled is helpful for many in the fields listed above, as it can help predict patterns in human development and show which regions or countries are particularly struggling or exceeding in a certain aspect of development.
+
 ## Findings
 ### Mean Life Expectancy at Birth and Mean GDI
 image
@@ -24,7 +26,7 @@ The data shows a negative correlation between HDI rank and both GDI per capita a
 image
 The world data doesn't show as obvious of a trend when sorted into countries. However, when averaged among continents, it appears that Africa and Oceania have less development, on average, than Europe and Asia.
 >Limitations
->>There were some issues merging the two datasets to add a continent column describing the country. Some countries had different names in one dataset than their equivalent in the other, resulting in about 20 countries not being included in the dataset. To ensure this wouldn't affect the country map above, I manually transferred the data from the HDI and Components sheet to the new exported sheet. I wasn't able to use this completed dataset when separating countries by their continent attribute, though, and the average values shown in the visualization of HDI by continent may lack certain countries. 
+>>I encountered some issues merging the two datasets to add a continent column describing the country. Some countries had different names in one dataset than their equivalent in the other, resulting in about 20 countries not being included in the dataset. To ensure this wouldn't affect the country map above, I manually transferred the data from the HDI and Components sheet to the new exported sheet. I wasn't able to use this completed dataset when separating countries by their continent attribute, though, and the average values shown in the visualization of HDI by continent may lack certain countries. 
 ## Navigation
 After the README, to navigate through the repository:
 * Go to the "HDI_Data_Project.ipynb" file, where I instruct the user through the process of manipulating the data.
