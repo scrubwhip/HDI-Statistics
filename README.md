@@ -20,7 +20,7 @@ This repository is a collection of visualizations, sheets, and code that summari
 
 ## Findings
 ### Mean Life Expectancy at Birth and Mean GDI
-![-mean-life-expectancy-at-birth-among-hdi-groups-](https://github.com/scrubwhip/HDI-Statistics/assets/60513902/34655449-77c6-47bb-b809-6a90a803c9b4)
+![-mean-life-expectancy-at-birth-among-hdi-groups-](/assets/visualizations/Life-Expectancy.png)
 
 The data shows a negative correlation between HDI rank and both GDI per capita and Life Expectancy at Birth, suggesting that countries with a lower HDI experience shorter life expectancies and less income per person. 
 ### HDI by Country and Mean HDI by Continent
