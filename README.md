@@ -33,7 +33,7 @@ The world data doesn't show as obvious of a trend when sorted into countries. Ho
 ## Navigation
 After the README, to navigate through the repository:
 * Go to the `HDI_Data_Project.ipynb` file, where I instruct the user through the process of manipulating the data.
-* Next, navigate to the `data` folder, where you can find both complete datasets proceeding the changes made.
+* Next, navigate to the `data` folder, where you can find both complete datasets proceeding the changes made. This folder includes a `Original_Data` folder containing the files sourced from Kaggle, along with a `Refined_Data` folder containing files of manipulated data.
 * If you would like to see the visualizations in more detail, go to the `visualizations` folder, where you can find them as `PNG` files.
 * To edit the code yourself, simply download the `.ipynb` file, upload it to your preferred coding environment, and don't forget to upload the original `CSV` files as well, which you can download from Kaggle. 
 ## Contributors/Help
