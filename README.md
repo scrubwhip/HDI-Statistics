@@ -19,7 +19,7 @@ This repository is a collection of visualizations, sheets, and code that summari
 >>The data I've compiled is helpful for many in the fields listed above, as it can help predict patterns in human development and show which regions or countries are particularly struggling or exceeding in a certain aspect of development.
 
 ## Findings
-Using ["DataWrapper"](https://www.datawrapper.de), I created two line graphs and two maps to visualize the data I found:
+Using [DataWrapper](https://www.datawrapper.de), I created two line graphs and two maps to visualize the data I found:
 ### Mean Life Expectancy at Birth 
 ![-mean-life-expectancy-at-birth-among-hdi-groups-](/visualizations/Life-Expectancy.png)
 ### Mean GDI per Capita
