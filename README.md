@@ -38,4 +38,4 @@ After the README, to navigate through the repository:
 * To edit the code yourself, simply download the `.ipynb` file, upload it to your preferred coding environment, and don't forget to upload the original `CSV` files as well, which you can download from Kaggle. 
 ## Contributors/Help
 Made by Sam Leggett
->For help, call:
+>For help, email: legg@unc.edu
