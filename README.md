@@ -30,7 +30,7 @@ The data shows a negative correlation between HDI rank and both GDI per capita a
 ![-hdi-countries-](/visualizations/HDI-Countries.png)
 ### Mean HDI by Continent
 ![-hdi-continents-](/visualizations/HDI-Continents.png)
-The world data doesn't show as obvious of a trend when sorted into countries. However, when averaged among continents, it appears that Africa and Oceania have less development, on average, than Europe and Asia.
+The world data doesn't show as obvious of a trend when sorted into countries. However, when averaged among continents, it appears that Africa, Oceania, and Asia have less development, on average, than North America, South America, and Europe. 
 >Limitations
 >>I encountered some issues merging the two datasets to add a continent column describing the country. Some countries had different names in one dataset than their equivalent in the other, resulting in about 20 countries not being included in the dataset. To ensure this wouldn't affect the country map above, I manually transferred the data from the HDI and Components sheet to the new exported sheet. I wasn't able to use this completed dataset when separating countries by their continent attribute, though, and the average values shown in the visualization of HDI by continent may lack certain countries. 
 ## Navigation
@@ -40,5 +40,6 @@ After the README, to navigate through the repository:
 * If you would like to see the visualizations in more detail, go to the `visualizations` folder, where you can find them as `PNG` files.
 * To edit the code yourself, simply download the `.ipynb` file, upload it to your preferred coding environment, and don't forget to upload the original `CSV` files as well, which you can download from Kaggle. 
 ## Contributors/Help
-Made by Sam Leggett
+* Contributors: Samuel Leggett
+* Maintained by: Samuel Leggett
 >For help, email: legg@unc.edu
