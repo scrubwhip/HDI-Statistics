@@ -19,13 +19,16 @@ This repository is a collection of visualizations, sheets, and code that summari
 >>The data I've compiled is helpful for many in the fields listed above, as it can help predict patterns in human development and show which regions or countries are particularly struggling or exceeding in a certain aspect of development.
 
 ## Findings
-### Mean Life Expectancy at Birth and Mean GDI
+Using ["DataWrapper"](https://www.datawrapper.de), I created two line graphs and two maps to visualize the data I found:
+### Mean Life Expectancy at Birth 
 ![-mean-life-expectancy-at-birth-among-hdi-groups-](/visualizations/Life-Expectancy.png)
+### Mean GDI per Capita
 ![-mean-GDI-among-hdi-groups-](/visualizations/GNI.png)
 
 The data shows a negative correlation between HDI rank and both GDI per capita and Life Expectancy at Birth, suggesting that countries with a lower HDI experience shorter life expectancies and less income per person. 
-### HDI by Country and Mean HDI by Continent
+### HDI by Country 
 ![-hdi-countries-](/visualizations/HDI-Countries.png)
+### Mean HDI by Continent
 ![-hdi-continents-](/visualizations/HDI-Continents.png)
 The world data doesn't show as obvious of a trend when sorted into countries. However, when averaged among continents, it appears that Africa and Oceania have less development, on average, than Europe and Asia.
 >Limitations
