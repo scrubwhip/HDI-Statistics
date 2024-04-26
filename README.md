@@ -27,9 +27,9 @@ Using [DataWrapper](https://www.datawrapper.de), I created two line graphs and t
 
 The data shows a negative correlation between HDI rank and both GDI per capita and Life Expectancy at Birth, suggesting that countries with a lower HDI experience shorter life expectancies and less income per person. 
 ### HDI by Country 
-![-hdi-countries-](/visualizations/HDI-Countries.png)
+![-hdi-countries-](/visualizations/Maps/HDI-Countries.png)
 ### Mean HDI by Continent
-![-hdi-continents-](/visualizations/HDI-Continents.png)
+![-hdi-continents-](/visualizations/Maps/HDI-Continents.png)
 The world data doesn't show as obvious of a trend when sorted into countries. However, when averaged among continents, it appears that Africa, Oceania, and Asia have less development, on average, than North America, South America, and Europe. 
 >Limitations
 >>I encountered some issues merging the two datasets to add a continent column describing the country. Some countries had different names in one dataset than their equivalent in the other, resulting in about 20 countries not being included in the dataset. To ensure this wouldn't affect the country map above, I manually transferred the data from the HDI and Components sheet to the new exported sheet. I wasn't able to use this completed dataset when separating countries by their continent attribute, though, and the average values shown in the visualization of HDI by continent may lack certain countries. 
