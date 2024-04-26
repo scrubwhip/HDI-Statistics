@@ -23,7 +23,7 @@ Using [DataWrapper](https://www.datawrapper.de), I created two line graphs and t
 ### Mean Life Expectancy at Birth 
 ![-mean-life-expectancy-at-birth-among-hdi-groups-](/visualizations/Line_Graphs/Life-Expectancy_by_HDI_Category.png)
 ### Mean GDI per Capita
-![-mean-GDI-among-hdi-groups-](/visualizations/Line_Graphs/GNI_by_HDI_Category.png)
+![-mean-GDI-among-hdi-groups-](/visualizations/Line_Graphs/GNI_by_HDI_Categories.png)
 
 The data shows a negative correlation between HDI rank and both GDI per capita and Life Expectancy at Birth, suggesting that countries with a lower HDI experience shorter life expectancies and less income per person. 
 ### HDI by Country 
